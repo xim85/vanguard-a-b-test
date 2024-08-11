@@ -62,14 +62,5 @@ Este proyecto tiene como objetivo analizar el impacto de una nueva interfaz digi
 - **Creación de Dashboards**: Utilizar Tableau para construir dashboards que faciliten la exploración de los datos y la interpretación de los resultados.
 - **Exploración Interactiva**: Permitir la interacción con los datos para obtener insights más detallados.
 
-## Archivos del Repositorio
-
-- **Cuadernos de Jupyter**:
-  - `01_preparacion_datos.ipynb`: Limpieza y preparación de datos.
-  - `02_analisis_exploratorio.ipynb`: Análisis exploratorio de datos.
-  - `03_pruebas_hipotesis.ipynb`: Pruebas de hipótesis y análisis estadístico.
-
-- **Visualizaciones en Tableau**:
-  - `Visualizacion_Vanguard.twbx`: Archivo de Tableau con visualizaciones interactivas del experimento.
 
 
